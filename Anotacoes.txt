@@ -1,0 +1,32 @@
+**Jquery 
+é utilizado para realizar funçõe que inpactam diretamente no html com a utilização do $
+por exemplo
+
+$(function(){
+	$('button').click(function(){
+		$('h1').hide();
+	})
+})
+
+isso faz com que quando clicar no botao esconde a tag h1
+
+*fadeOut() utilzaod no jquery para esconder coisas suavemente ao contrario do hide entre () pode ser colocado 'slow', 'fast' ou o tempo desejado em milesegundos
+que é utilizado para controlar a velocidade 
+*fadein() mostra como o .show porem mais suave e pode se utilzaros mesmo atribustos do fadeOut
+*delay() utilzando com se fosse o timeout entre () coloca os milesegundo que desejar 
+*text() utilizado para colocar um texto no html
+*css() altera o css do html dentro do () tem que se colocar o quie vai mudar e o atributo
+EX
+.css('color':'red')
+se for altera mais de uma coisa no memso contexto 
+.css({'color: 'red', 'backgoundColor': 'azul'})
+
+*addClass('algo') para adicionar a classe do html
+*removeClass('algo') para remover a classe do html
+
+**BootStrap
+*utilizando a extensao bootstrap 5 quick snippets é possivel ter atalhos para criação das paginas inclusive dsa inicial apontando para o cdn
+
+**<meta http-equiv="refresh" content ="1"> isso faz com que o html recarregue automaticamente  em 1 segundo para ver as atualizações 
+
+**container utilizado para dar um espaçamento padrao d ambos lados na pagina e se utilizar o container-fluid ele ira utilizar o maximo de espaço da pagina sem as bosrdas 
