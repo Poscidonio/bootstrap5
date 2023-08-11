@@ -30,3 +30,25 @@ se for altera mais de uma coisa no memso contexto
 **<meta http-equiv="refresh" content ="1"> isso faz com que o html recarregue automaticamente  em 1 segundo para ver as atualizações 
 
 **container utilizado para dar um espaçamento padrao d ambos lados na pagina e se utilizar o container-fluid ele ira utilizar o maximo de espaço da pagina sem as bosrdas 
+
+**nas class é possivel usar alem do pt e pb usar tamebm o ps(padding start) e pe(padding end)
+**mx altera as margens no eixo x ou seja de ambos os lados e my altera as margem no eico y oppu seja acima e abaixo
+**display-1 a 6 aumenta o tamnho do texto 
+**shadow adiciona sombra 
+**img-fluid usado para que a imagem ocupe 100 % do espaço 
+**table-strip coloca cor sim cor nao na tabela 
+**table-houver mostra sobre qual linha voce esta na tabela 
+**quando utilizado o alert e necessario colocar um link junto da mesma cor basta usrar na class da tag a o alert-link
+**alert-dimissible é utilizad com um button para sumir com o alerta
+**se for preciso colocar um frase ou palavra com bg diferente basta colcoar um label dentro do alert 
+**se for preciso mudar o tamanho do modal basta colocar na linha modal-dialog o tamnho ex. modal-lg
+**se for preciso centralizar o modal basta colocar na mesma linha de cima o modal-dialog-cebtered
+**popower utilizado para exibir uma pequena caixa de mensagem é necessario clicar  para aparecer e parra subir 
+**tooltip é parecido com o popower porem nao é necessari clicar para abrir e se clicar qualuqer lugar que
+ cliar fora fecha esses dois tipos sao usado quando se ha um icone de ajuda e precisa dar uma mensagem curta sibre o que é 
+Obs. em abos é necessario ativalos no js buscar na documentacao como 
+**opacity e o numero tira a opacidade da imagem ex opacity-50
+**navbar utilizado para criar os menus de navegaçao 
+**navbar-expand-lg define o nivel de quebra para torna responsivo 
+**navbar-brand é onde se coloca o logo na nav bar 
+**dropdown-menu é um menu suspenso
