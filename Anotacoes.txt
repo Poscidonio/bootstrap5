@@ -52,3 +52,12 @@ Obs. em abos é necessario ativalos no js buscar na documentacao como
 **navbar-expand-lg define o nivel de quebra para torna responsivo 
 **navbar-brand é onde se coloca o logo na nav bar 
 **dropdown-menu é um menu suspenso
+
+**bootstap quando baixado para utilzar na aplicação é melhor utilizar o .min.css que é melhor na leitura do naveegado 
+esxiste a opção .grid.css que é uma versao mais simplificada qua nao contem todas as funcionalidades do boostrap
+ja o JS é necessario usar o bootstrap.min.js caso queira usar o ppower ou o tootip é necessario usar o arquivo 
+bundle.min,js
+
+**para utilizaro jquery basta ir no site pegar  a versao comprimida e salvar em um novo arquivo chamadoo jquery.js
+
+**quando utilizado a col porem nao defini um valor para ela como col-6 por exemplo ela define os tamnhos sozinho 
