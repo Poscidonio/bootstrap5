@@ -52,6 +52,34 @@ Obs. em abos é necessario ativalos no js buscar na documentacao como
 **navbar-expand-lg define o nivel de quebra para torna responsivo 
 **navbar-brand é onde se coloca o logo na nav bar 
 **dropdown-menu é um menu suspenso
+**display aumenta consideravelmente o tamanho do texto maior que o h1
+**lead da um destaque a um paragrafo ou texto 
+**marque destaca como se fosse um amarelinho no texto 
+**del ou s sao as tags utilizadas para riscar o texto no meio 
+**u sublinha o texto 
+**para colocar em negrito pode se utilizar a tag b mais é recomendado a strong 
+**small deixa o texto menor
+**em deixa em italico
+**img-fluid deixa a imagem resaponsiva 
+** class table coloca um estilo de tabela 
+** tag table fdeixa os dados em forma de tabela 
+**table-striped coloca uma cor sim cor nao 
+**table-bordeless retira todas as linhas da tabela 
+**table-sm deixa a tabela com as linhas mais curtas 
+**table-bordered coloca bordas em toda a tabela
+**table-hover marca a lionha de acordo com o passar do mouse
+**table-dark muda a cor da tabela
+**thead-dark colore o titulo das colonas
+**table-active colore as linhas 
+**alert é uma caixa de dialogo criada para mostral algo para o usuario
+**alert-warning colore o alerta
+obs. caso precise colocar um link dentro do alerte e nao quer que ekle fique azuk basta colocar na tag a um
+clas laert-link que ficar um pouco mais escuro que a caixa de alerta mais da cor do aleta 
+**btn cria um botao 
+**btn-success muda a cor do botao 
+**btn-outiline-danger deixa o botao sem backgorund e insere coloca passado o mouse m cima 
+**btn-lg aumenta o tamnho do botao 
+**btn-block faz ocupar todo o tamnho da linha 
 
 **bootstap quando baixado para utilzar na aplicação é melhor utilizar o .min.css que é melhor na leitura do naveegado 
 esxiste a opção .grid.css que é uma versao mais simplificada qua nao contem todas as funcionalidades do boostrap
