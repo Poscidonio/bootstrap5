@@ -89,3 +89,11 @@ bundle.min,js
 **para utilizaro jquery basta ir no site pegar  a versao comprimida e salvar em um novo arquivo chamadoo jquery.js
 
 **quando utilizado a col porem nao defini um valor para ela como col-6 por exemplo ela define os tamnhos sozinho 
+
+**No boostrap é utilizado m para margens externas e p para margens internas !!!!
+
+** o x siginific uma margem a esquerda e a direita tanto utilizando o p ou o m
+** ja o y é margem ao topo e baixo utilizando o p ou o m de acordo com a necessidade
+** blank sao todos os lados do elemento 
+
+**autofocus é a propriedade utilizada em formularios para que selecione aquela input automaticamente  ao carregar a 
