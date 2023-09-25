@@ -43,8 +43,8 @@ se for altera mais de uma coisa no memso contexto
 **se for preciso colocar um frase ou palavra com bg diferente basta colcoar um label dentro do alert 
 **se for preciso mudar o tamanho do modal basta colocar na linha modal-dialog o tamnho ex. modal-lg
 **se for preciso centralizar o modal basta colocar na mesma linha de cima o modal-dialog-cebtered
-**popower utilizado para exibir uma pequena caixa de mensagem é necessario clicar  para aparecer e parra subir 
-**tooltip é parecido com o popower porem nao é necessari clicar para abrir e se clicar qualuqer lugar que
+**popover utilizado para exibir uma pequena caixa de mensagem é necessario clicar  para aparecer e parra subir 
+**tooltip é parecido com o popover porem nao é necessari clicar para abrir e se clicar qualuqer lugar que
  cliar fora fecha esses dois tipos sao usado quando se ha um icone de ajuda e precisa dar uma mensagem curta sibre o que é 
 Obs. em abos é necessario ativalos no js buscar na documentacao como 
 **opacity e o numero tira a opacidade da imagem ex opacity-50
@@ -96,4 +96,13 @@ bundle.min,js
 ** ja o y é margem ao topo e baixo utilizando o p ou o m de acordo com a necessidade
 ** blank sao todos os lados do elemento 
 
-**autofocus é a propriedade utilizada em formularios para que selecione aquela input automaticamente  ao carregar a 
+**autofocus é a propriedade utilizada em formularios para que selecione aquele input automaticamente  ao carregar a pagina
+**object-fit:cover utilizado para peencher todo o espaço sem que a imagem perca a qualidade
+
+**<meta charset="utf-8"> utilizado para que o html reconheça os acentos
+
+**scrollSpy utilizado para fazer um "menu" e nele percorrer pelo conteudo utilizando os titulos como ancoras para o texto ou apenas como visualização de acordo com o texto que se encontra
+
+**banner quando adicionado o sr-only quer dizer que nao aparecera mais sim sera lido atravez de app de inclusao
+
+**no input o in
