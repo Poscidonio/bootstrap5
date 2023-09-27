@@ -105,4 +105,10 @@ bundle.min,js
 
 **banner quando adicionado o sr-only quer dizer que nao aparecera mais sim sera lido atravez de app de inclusao
 
-**no input o in
+**no input o input quando colocamos um botao junto tipo uma pesquisa é bom utilizar o prepend no input e o append no btn para que o espaço entre eles fique visalmente melhor
+
+**quando necessario adicionar a navbar topo utilizar o fixed-top porem é necessario colocar um margem do tamanho da navbar para que a navbar nao sobreponha o conteudo 
+
+**quando temos um padding ou um margem e temos dois valores na frente significa primeiro valor cima/baixo e segundo direita/esquerda
+Ex. padding: 100px 0;
+caso tenha 4 valores cada um corresponde ao seu devido valor e se for um atribui a todos os lados
