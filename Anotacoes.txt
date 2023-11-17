@@ -112,3 +112,9 @@ bundle.min,js
 **quando temos um padding ou um margem e temos dois valores na frente significa primeiro valor cima/baixo e segundo direita/esquerda
 Ex. padding: 100px 0;
 caso tenha 4 valores cada um corresponde ao seu devido valor e se for um atribui a todos os lados
+
+**para alinhas a imagem ao texto basta adicionar na tag align="" e o que deseja top, bottom. middle, right, left
+
+** nos link é possivel mudar o comportamento colocando vlink="" ou alink="", o vlink apos acessaod muda a cor do link e o alink muda a cor ao passar o mouse sobre o link
+
+** usermap utilizado comno um id nas imagens para mapear alguma xcoisa ou site usaermap="#id" <map>
